@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-azurerm-kubernetes-cluster/compare/v1.0.0...v1.1.0) (2026-06-22)
+
+
+### Features
+
+* bump tf and provider version ([e1e680f](https://github.com/CloudAstro/terraform-azurerm-kubernetes-cluster/commit/e1e680fe8674352b9f13131245b7ae7c432d5461))
+
 ## 1.0.0 (2025-06-24)
 
 
